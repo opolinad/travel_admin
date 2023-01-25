@@ -1,0 +1,33 @@
+div#card{
+    width:300px;
+    border: 1px solid lightblue;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+div#card div#header{
+    color:#ff6a00;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 15px;
+}
+
+div#card div#content{
+    text-align: center;
+    padding: 10px;
+}
+
+div#card div#content img{
+    width: 100%;
+    border: 30px;
+    border-radius: 30px;
+}
+
+div#card div#footer{
+    text-align: center;
+    color:rgb(23, 23, 176);
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
